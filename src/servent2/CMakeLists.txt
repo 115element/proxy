@@ -1,0 +1,1 @@
+add_executable(servent2 serventdd.c)

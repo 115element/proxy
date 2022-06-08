@@ -1,0 +1,1 @@
+add_executable(date1 date1.c)
